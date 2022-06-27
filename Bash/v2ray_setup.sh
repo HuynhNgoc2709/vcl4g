@@ -22,7 +22,7 @@ sudo apt install curl -y
 sudo apt-get install certbot -y
 echo "Start Install v2ray"
 #Install v2ray UI script
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+bash <\(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh\)
 #Get SSL Certificate
 if [ -v "$email" ]; then
 	echo "Generate Cerbot"

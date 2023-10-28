@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Token GitHub
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 
 # Tên chủ sở hữu repository
 OWNER="HuynhNgoc2709"
